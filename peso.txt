@@ -1,0 +1,2 @@
+Peso Gonzalo = 64kg
+Peso Claudio = 79kg

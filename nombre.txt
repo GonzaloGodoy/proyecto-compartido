@@ -1,2 +1,2 @@
-nombre = claudio pacco
+nombre = claudio paccor
 nombre = gonzalo godoy

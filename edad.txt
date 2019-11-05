@@ -1,0 +1,2 @@
+edad de claudio = 38
+edad de gonzalo = 21
